@@ -2,7 +2,7 @@
 ## As seen in the <link> blogpost
 
 
-The Counter Sift simply calculates the number of words in each email and displays a badge next to each entry on the list. This repo is the result after following the blogpost above.
+The Counter Sift simply calculates the number of words in each email and displays a badge with the word count next to each entry on the list view. This repo is the result of following the how-to guide in blogpost above.
 
 
 ![Counter Sift](https://s3-eu-west-1.amazonaws.com/redsift-static/blog/how-to-sift/money_shot.png)
