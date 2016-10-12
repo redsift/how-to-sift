@@ -58,7 +58,6 @@
         "javascript": "server/node2.js"
       },
       "outputs": {
-        "count": {},
         "threads": {}
       }
     }],
@@ -69,9 +68,6 @@
     },
     "outputs":{
       "exports":{
-        "count":{
-          "key$schema": "string"
-        },
         "threads":{
           "import": "_email.tid"
         }
