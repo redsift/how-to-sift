@@ -1,5 +1,5 @@
 # how-to-sift
-## As seen in the [Build it, User it, Share it.](https://medium.com/@chrisvo/build-it-use-it-share-it-c6fd7936ba4f#.iqcpftei1) blogpost
+## As seen in the [Build it, User it, Share it.](https://medium.com/@chrisvo/build-it-use-it-share-it-c6fd7936ba4f) blogpost
 
 
 The Counter Sift simply calculates the number of words in each email and displays a badge with the word count next to each entry on the list view. This repo is the result of following the how-to guide in blogpost above.
